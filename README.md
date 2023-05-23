@@ -4,7 +4,7 @@ The Story of the Chinese Farmer
 
 11 may 2016, Alexandre Gorius
 
-[ Image : https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg ]
+[ Image : hin more horses ]
 
 Preamble
 
