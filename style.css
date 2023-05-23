@@ -1,0 +1,12 @@
+body {
+    max-width: 90%;
+    margin-left: 3rem;
+    background-image: linear-gradient(white, grey);
+}
+
+.quotations {
+    font-size: 160%;
+    background-color: lightslategrey;
+    border-left: 3px;
+    padding: 4px;
+}
