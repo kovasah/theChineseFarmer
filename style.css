@@ -10,3 +10,19 @@ body {
     border-left: 3px;
     padding: 4px;
 }
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.grey {
+    background-color: gray;
+}
+
+.white {
+    background-color: white;
+}
